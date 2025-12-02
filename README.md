@@ -11,6 +11,7 @@
           fake_folder = "fake"
           ^^ something like this
     - Ensure n_of_files is either 1000 for like a 10-20 min run time or None for reading all files (around 40 mins) depends on hardware
+    - Comment out block two to no longer mount google drive since it is now local
 
 ## Option 2:
 
